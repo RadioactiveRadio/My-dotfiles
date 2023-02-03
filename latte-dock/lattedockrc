@@ -1,0 +1,49 @@
+[DownloadDialog Settings]
+eDP-1-1 Height 1360x768=550
+eDP-1-1 Height 1366x768=508
+eDP-1-1 Width 1360x768=800
+eDP-1-1 Width 1366x768=700
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,735
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=52,508,129,104
+sortColumn=3
+sortOrder=0
+
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP-1-1:::0,0 1366x768
+11=eDP-1:::0,0 1366x768
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=false
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+currentLayout=Plasma
+downloadWindowSize=800,550
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
+lastNonAssignedLayout=Plasma
+launchers=applications:chromium_chromium.desktop,applications:org.kde.dolphin.desktop,applications:pureref.desktop
+layoutsColumnWidths=112,76,63,0,93
+layoutsWindowSize=700,615
+memoryUsage=0
+metaPressAndHoldEnabled=false
+mouseSensitivity=1
+parabolicSpread=3
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Plasma
+userConfiguredAutostart=true
+version=2
+
+[UniversalSettings][ScreenScales]
+eDP-1-1=1.08;1
