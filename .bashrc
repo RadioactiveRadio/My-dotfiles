@@ -56,8 +56,19 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
+#Change PS1 \u@\h to change prompt color 
+#Color values
+#Black: 30
+#Blue: 34
+#Cyan: 36
+#Green: 32
+#Purple:35
+#Red: 31
+#White: 37
+#Yellow:33
+
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;36m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
