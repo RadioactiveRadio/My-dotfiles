@@ -1,0 +1,123 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACeAAACbvwCAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAALgAAAm4AAABdAQAAA/sAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAFhAAAAkQAAAAoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAB/QAAAm4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP-1-1 Window-Maximized 1366x768=true
+eDP-1-1 XPosition 1366x768=50
+eDP-1-1 YPosition 1366x768=50
+
+[CompactMode]
+FontWeight=50
+
+[ContextMenu]
+ShowOpenInNewWindow=false
+ShowViewMode=false
+
+[CreateDialog]
+LastMimeType=application/zip
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+FontWeight=50
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Bottles/ZC/drive_c/,$HOME/Desktop/
+eDP-1-1 Height 1280x720=480
+eDP-1-1 Height 1360x768=512
+eDP-1-1 Height 1366x768=512
+eDP-1-1 Width 1280x720=874
+eDP-1-1 Width 1360x768=906
+eDP-1-1 Width 1366x768=910
+
+[General]
+GlobalViewProps=false
+ShowSpaceInfo=false
+ShowZoomSlider=false
+Version=201
+ViewPropsTimestamp=2021,11,27,17,29,56.182
+
+[IconsMode]
+FontWeight=50
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/Appimages/krita-5.1.5-x86_64.appimage,file:$HOME/Bottles/vdnvdfjknvoin/drive_c/Program Files (x86)/Mr DJ/Assassin's Creed IV Black Flag/icon.ico,file:$HOME/Appimages/waterfox/waterfox,file:$HOME/Bottles/ZC/drive_c,file:$HOME/Appimages/Blender Launcher
+Recent URLs[$e]=file:$HOME/Appimages/,file:$HOME/,file:$HOME/Desktop/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/Bottles/ZC/drive_c/,file:$HOME/Appimages/waterfox/,file:$HOME/Bottles/vdnvdfjknvoin/drive_c/Program Files (x86)/Mr DJ/Assassin's Creed IV Black Flag/
+iconViewIconSize=43
+
+[KPropertiesDialog]
+eDP-1 Height 1360x768=418
+eDP-1 Height 1366x768=479
+eDP-1 Width 1360x768=397
+eDP-1 Width 1366x768=439
+eDP-1-1 Height 1280x720=473
+eDP-1-1 Height 1360x768=466
+eDP-1-1 Height 1366x768=648
+eDP-1-1 Width 1280x720=470
+eDP-1-1 Width 1360x768=444
+eDP-1-1 Width 1366x768=495
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1360x768=768
+eDP-1 Height 1366x768=768
+eDP-1 Width 1360x768=1360
+eDP-1 Width 1366x768=1366
+eDP-1 Window-Maximized 1280x720=true
+eDP-1 Window-Maximized 1360x768=true
+eDP-1 Window-Maximized 1366x768=true
+eDP-1 XPosition 1360x768=0
+eDP-1 XPosition 1366x768=0
+eDP-1 YPosition 1360x768=0
+eDP-1 YPosition 1366x768=0
+eDP-1-1 Height 1093x614=614
+eDP-1-1 Height 1280x720=449
+eDP-1-1 Height 1360x768=768
+eDP-1-1 Height 1366x768=768
+eDP-1-1 Height 800x600=496
+eDP-1-1 Width 1093x614=1093
+eDP-1-1 Width 1280x720=1056
+eDP-1-1 Width 1360x768=1360
+eDP-1-1 Width 1366x768=1366
+eDP-1-1 Width 800x600=800
+eDP-1-1 Window-Maximized 1093x614=true
+eDP-1-1 Window-Maximized 1360x768=true
+eDP-1-1 Window-Maximized 1366x768=true
+eDP-1-1 XPosition 1093x614=0
+eDP-1-1 XPosition 1280x720=34
+eDP-1-1 XPosition 1360x768=0
+eDP-1-1 XPosition 1366x768=0
+eDP-1-1 XPosition 800x600=0
+eDP-1-1 YPosition 1093x614=0
+eDP-1-1 YPosition 1280x720=148
+eDP-1-1 YPosition 1360x768=0
+eDP-1-1 YPosition 1366x768=0
+eDP-1-1 YPosition 800x600=104
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=kate,blender,krita,kri,gwen,vlc,vl,mpv,gwe,gwenv,oku,kitty,KAT,djv,ka
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[SettingsDialog]
+eDP-1-1 Height 1360x768=464
+eDP-1-1 Height 1366x768=464
+eDP-1-1 Width 1360x768=626
+eDP-1-1 Width 1366x768=626
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+eDP-1-1 Height 1360x768=436
+eDP-1-1 Height 1366x768=436
+eDP-1-1 Width 1360x768=375
+eDP-1-1 Width 1366x768=375

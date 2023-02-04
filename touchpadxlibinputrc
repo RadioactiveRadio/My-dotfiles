@@ -1,0 +1,11 @@
+[SYNA7DB5:01 06CB:7DB7 Touchpad]
+clickMethodAreas=true
+clickMethodClickfinger=false
+naturalScroll=true
+pointerAcceleration=0
+pointerAccelerationProfileAdaptive=true
+pointerAccelerationProfileFlat=false
+scrollEdge=false
+scrollTwoFinger=true
+tapDragLock=true
+tapToClick=true

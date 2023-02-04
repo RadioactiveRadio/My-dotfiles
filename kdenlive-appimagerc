@@ -1,0 +1,105 @@
+[KFileDialog Settings]
+Recent Files[$e]=Nodding man.gif,file:$HOME/Pictures/Memes/Nodding man.gif
+Recent URLs[$e]=file:$HOME/Pictures/Memes/
+iconViewIconSize=43
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAEkAAABG/wCAAAAAfwAAAHFAAABGwAAAMYBAAAb+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAAKoBAAAC+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAABmAQAAAgAAAAIAAAVWAAABgvwBAAAADfsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAABgAQAAA/sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABhAQAAA/wAAAAAAAAAtAAAAIsA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAFsBAAAD+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAEAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAQBAAAD+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABXAQAAA/sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAWwEAAAP8AAAAtQAAAaIAAAFEAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMsBAAAC+wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAEZAQAAA/sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACMAQAAAvwAAAJYAAABowAAAUQA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAywEAAAL7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAIYBAAAC+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABAAEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACOAQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACKAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABKgEAAAP7AAAAEAB0AGUAeAB0AGUAZABpAHQAAAAAAP////8AAAFFAQAAA/sAAAASAHQAaQBtAGUAcgBlAG0AYQBwAQAAA/wAAAFaAAABDAEAAAP7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAAAP////8AAAIuAQAAA/sAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABPAEAAAMAAAQxAAABGwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAAB7P////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1-1 Height 1366x768=768
+eDP-1-1 Width 1366x768=1366
+eDP-1-1 XPosition 1366x768=0
+eDP-1-1 YPosition 1366x768=0
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Pictures/Memes/,$HOME/Videos,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Videos/Roxy Timelapse.kdenlive
+Name1[$e]=Roxy Timelapse.kdenlive
+
+[RenderWidget]
+showoptions=false
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorSchemePath=GruvboxColors.colors
+
+[bin]
+binMode=1
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAAJAAAAAYAAAAmAAAABQAAAEoAAAAEAAAALQAAAAMAAAA0AAAAAgAAAFoAAAABAAAAMgAAARgAAAAIAQEAAQAAAAAAAAAAAAAAAE7/////AAAAgQAAAAAAAAAIAAABGAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA5
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/tmp/.mount_kdenliRZledl/usr/bin/ffmpeg
+ffplaypath[$e]=/tmp/.mount_kdenliRZledl/usr/bin/ffplay
+ffprobepath[$e]=/tmp/.mount_kdenliRZledl/usr/bin/ffprobe
+mltpath[$e]=/tmp/.mount_kdenliRZledl/usr/share/mlt-7/profiles/
+rendererpath[$e]=/tmp/.mount_kdenliRZledl/usr/bin/melt
+
+[timeline]
+headerwidth=226
+trackheight=69
+
+[unmanaged]
+colorclipcolor=255,255,255
+default_profile=atsc_1080p_25
+defaultrescaleheight=147
+defaultrescalewidth=117
+force_breeze=true
+monitor_audio=false
+producerslist=avformat,avformat-novalidate,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,framebuffer,blipflash,count,pgm,qimage,qtext,kdenlivetitle,vorbis,xml,xml-string,xml-nogl
+project_fps=30
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=21.08.0
