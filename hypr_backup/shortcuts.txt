@@ -1,0 +1,30 @@
+# 1. Apps
+bind = Super, T, exec, $terminal #"Terminal"
+bind = Super, W, exec, $browser #"Browser"
+bind = Super, E, exec, $fileExplorer #"FileBrowser"
+# 2. Window actions
+bind = Super, X, layoutmsg, promote #"Promote Window"
+bind = Super, P, pin #"Pin"
+bind = Super, F, fullscreen, 0 #"Fullscreen with borders"
+bind = Super+Alt, F, fullscreen, 1  #"Fullscreen"
+bind = Super+Alt, Space, togglefloating #"Toggle Floating"
+bind = Super, Q, killactive #"Close Window"
+# 3. Utilities
+bind = Super, F1, exec, qs -c noctalia-shell ipc call plugin:keybind-cheatsheet toggle #"Cheatsheet"
+bind = Super+Shift, S, exec, hyprshot --freeze --clipboard-only --mode region; sleep 0.5s && wl-paste | swappy -f - #"Screenshot:region"
+bind = Super+Shift, W, exec, hyprshot --freeze --clipboard-only --mode window; sleep 0.5s && wl-paste | swappy -f - #"Screenshot:window"
+bind = ,PRINT, exec, hyprshot --freeze --clipboard-only --mode output; sleep 0.5s && wl-paste | swappy -f - #"Screenshot:screen"
+bind = Super, P, exec, $ipc plugin:screen-toolkit toggle #"Screen Toolkit"
+bind = Super+Shift, C, exec, hyprpicker -a  #"Colour picker"
+bind = Super, V, exec, $ipc launcher clipboard #"Clipboard"
+# 4. Toggle special workspace
+bind = Super, C, togglespecialworkspace, communication #"Communication"
+bind = Super, M, togglespecialworkspace, music #"Music"
+bind = Super, S, togglespecialworkspace, special #"Special"
+# 5. Kill/restart
+bindr = Ctrl+Super+Shift, R, exec, hyprctl kill #"Kill Program"
+bind = Control+Super+Alt, R, exec, killall qs; sleep 0.2; qs -c noctalia-shell #"Restart Shell"
+bindr = Super+Shift, R, exec, hyprctl reload #"Reload Hyprland"
+# 6. Sleep/Lock
+bind = Super+Shift, L, exec, systemctl suspend #"Suspend"
+bind = Super, L, exec, lock #"Lock"

@@ -1,0 +1,24 @@
+{
+  "logo": {
+    "type": "kitty-icat", // Crucial for Kitty
+    "source": "~/.config/fastfetch/YorhaSymbol.png",
+    "width": 15,
+    "height": 15,
+    "padding": {
+      "top": 0,
+      "right": 3,
+    },
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "cpu",
+    "gpu",
+    "memory",
+  ],
+}
