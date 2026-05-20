@@ -9,7 +9,6 @@ hl.config({
         follow_focus = true,
         focus_fit_method = 1,
         follow_min_visible = 0.1,
-        wrap_focus = true
     },
 
     master = {
